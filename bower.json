@@ -1,0 +1,21 @@
+{
+  "name": "super-rentals",
+  "description": "Small description for super-rentals goes here",
+  "main": "",
+  "authors": [
+    "Ndolo S <shadrack.winters@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ShadrackNdolo/super-rentals",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "firebase": "^4.3.1"
+  }
+}
